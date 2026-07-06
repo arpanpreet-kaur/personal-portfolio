@@ -7,7 +7,7 @@
 function showMessage() {
 
     alert(
-        "👋 Hello!\n\nThank you for visiting my portfolio.\n\nFeel free to contact me through Email or GitHub.\n\nHave a great day!"
+        " Hello!\n\nThank you for visiting my portfolio.\n\nFeel free to contact me through Email or GitHub.\n\nHave a great day!"
     );
 
 }
